@@ -1,4 +1,4 @@
-Hi, my name is Felix and I am studying Game-Production & Management in southern Germany.
+Hi, my name is Felix and I am studying Game-Production & Management in Southern Germany.
 This repository is the place for my personal projects.
 
 <!---
